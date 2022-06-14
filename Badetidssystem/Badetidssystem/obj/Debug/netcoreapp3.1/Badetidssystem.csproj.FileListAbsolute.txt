@@ -1,0 +1,13 @@
+/Users/kayayildizsekmen/Projects/Badetidssystem/Badetidssystem/bin/Debug/netcoreapp3.1/Badetidssystem.deps.json
+/Users/kayayildizsekmen/Projects/Badetidssystem/Badetidssystem/bin/Debug/netcoreapp3.1/Badetidssystem.runtimeconfig.json
+/Users/kayayildizsekmen/Projects/Badetidssystem/Badetidssystem/bin/Debug/netcoreapp3.1/Badetidssystem.runtimeconfig.dev.json
+/Users/kayayildizsekmen/Projects/Badetidssystem/Badetidssystem/bin/Debug/netcoreapp3.1/Badetidssystem.dll
+/Users/kayayildizsekmen/Projects/Badetidssystem/Badetidssystem/bin/Debug/netcoreapp3.1/Badetidssystem.pdb
+/Users/kayayildizsekmen/Projects/Badetidssystem/Badetidssystem/obj/Debug/netcoreapp3.1/Badetidssystem.csproj.AssemblyReference.cache
+/Users/kayayildizsekmen/Projects/Badetidssystem/Badetidssystem/obj/Debug/netcoreapp3.1/Badetidssystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kayayildizsekmen/Projects/Badetidssystem/Badetidssystem/obj/Debug/netcoreapp3.1/Badetidssystem.AssemblyInfoInputs.cache
+/Users/kayayildizsekmen/Projects/Badetidssystem/Badetidssystem/obj/Debug/netcoreapp3.1/Badetidssystem.AssemblyInfo.cs
+/Users/kayayildizsekmen/Projects/Badetidssystem/Badetidssystem/obj/Debug/netcoreapp3.1/Badetidssystem.csproj.CoreCompileInputs.cache
+/Users/kayayildizsekmen/Projects/Badetidssystem/Badetidssystem/obj/Debug/netcoreapp3.1/Badetidssystem.dll
+/Users/kayayildizsekmen/Projects/Badetidssystem/Badetidssystem/obj/Debug/netcoreapp3.1/Badetidssystem.pdb
+/Users/kayayildizsekmen/Projects/Badetidssystem/Badetidssystem/obj/Debug/netcoreapp3.1/Badetidssystem.genruntimeconfig.cache
